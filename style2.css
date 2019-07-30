@@ -1,2 +1,25 @@
 
-body {background-image: url(https://www.robalexander.com/wp-content/uploads/2017/10/oboro-palace-playmat-artwork.png); background-repeat: no-repeat; background-size: cover;
+body {
+	background-image: url(https://i.kinja-img.com/gawker-media/image/upload/s--9GC-VYC6--/c_scale,f_auto,fl_progressive,q_80,w_800/wwqufsfu3y4jdhh08zu1.png); background-repeat: no-repeat; background-size: cover;
+}
+#menu-outer {
+	height: 84px;
+	background: url(images/bar-bg.jpg) repeat-x;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 60px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
+ul#horizontal-list {
+	    text-align: center;
+}
